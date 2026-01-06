@@ -21,3 +21,5 @@ We perform a full pipeline—from raw electromyography (EMG) preprocessing to ma
 The code and environment.yml are provided for reproducibility. See the [report](./report.pdf) for details about results and analysis.
 
 
+#### Contributors 
+[jciardo](https://github.com/jciardo), [frossardr](https://github.com/frossardr), [maverest](https://github.com/maverest), [jeanninhugo](https://github.com/jeanninhugo)
